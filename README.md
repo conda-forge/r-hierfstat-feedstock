@@ -1,11 +1,11 @@
-About r-hierfstat
-=================
+About r-hierfstat-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hierfstat-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.r-project.org, http://github.com/jgx65/hierfstat
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hierfstat-feedstock/blob/main/LICENSE.txt)
 
 Summary: Allows the estimation of hierarchical F-statistics from haploid or diploid genetic data  with any numbers  of levels in the hierarchy, following the algorithm of Yang (Evolution, 1998, 52(4):950-956;  <DOI:10.2307/2411227>. Functions are also given to test via randomisations the significance of each F and variance components,   using the likelihood-ratio statistics G.
 
