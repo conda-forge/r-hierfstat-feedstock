@@ -1,6 +1,5 @@
 {% set version = "0.5-11" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-hierfstat
@@ -13,8 +12,7 @@ source:
   sha256: 816c03c98135d78ad26e74656a7d0ec00c5052f75aafe6775215651a1228cb5b
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
